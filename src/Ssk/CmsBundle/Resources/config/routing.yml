@@ -5,3 +5,7 @@ Ssk_cms_homepage:
 Ssk_cms_about:
   pattern: /about
   defaults: { _controller: SskCmsBundle:Page:about }
+
+Ssk_cms_article:
+  pattern: /article/{id}
+  defaults: { _controller: SskCmsBundle:Article:display }
