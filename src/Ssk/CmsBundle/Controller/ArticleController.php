@@ -9,7 +9,7 @@ class ArticleController extends Controller{
 
     public function displayAction($id){
 
-        return $this->render('SskCmsBundle:Article:display.html.twig')
+        return $this->render('SskCmsBundle:Article:display.html.twig');
 
     }
 
