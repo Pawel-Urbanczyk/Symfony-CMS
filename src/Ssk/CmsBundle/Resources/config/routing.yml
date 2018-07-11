@@ -1,3 +1,7 @@
 Ssk_cms_homepage:
   pattern: /start
   defaults: { _controller: SskCmsBundle:Page:index }
+
+Ssk_cms_about:
+  pattern: /about
+  defaults: { _controller: SskCmsBundle:Page:about }
