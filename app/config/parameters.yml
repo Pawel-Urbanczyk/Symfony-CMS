@@ -2,9 +2,9 @@ parameters:
     database_driver:   pdo_mysql
     database_host:     127.0.0.1
     database_port:     ~
-    database_name:     symfony
-    database_user:     root
-    database_password: ~
+    database_name:     rai2000_cms
+    database_user:     rai2000_rai
+    database_password: IkMk6UmS
 
     mailer_transport:  smtp
     mailer_host:       127.0.0.1
