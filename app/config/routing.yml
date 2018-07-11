@@ -1,0 +1,4 @@
+ssk_cms:
+    resource: "@SskCmsBundle/Resources/config/routing.yml"
+    prefix:   /
+

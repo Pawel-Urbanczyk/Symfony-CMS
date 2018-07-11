@@ -1,0 +1,7 @@
+parameters:
+#    ssk_cms.example.class: Ssk\CmsBundle\Example
+
+services:
+#    ssk_cms.example:
+#        class: %ssk_cms.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
