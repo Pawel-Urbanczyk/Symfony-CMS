@@ -1,5 +1,5 @@
 Ssk_cms_homepage:
-  pattern: /start
+  pattern: /
   defaults: { _controller: SskCmsBundle:Page:index }
 
 Ssk_cms_about:
